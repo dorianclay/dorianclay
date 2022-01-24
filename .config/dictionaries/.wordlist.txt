@@ -3,4 +3,4 @@ glxiia
 https
 interpretable
 svg
-yml
+yaml
