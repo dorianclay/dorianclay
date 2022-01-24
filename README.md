@@ -1,6 +1,6 @@
 # glxiia
 
-![Newspeak Helper](https://github.com/glxiia/glxiia/actions/workflows/spellchecker.yml/badge.svg)
+![Newspeak Helper](https://github.com/glxiia/glxiia/actions/workflows/newspeak.yaml/badge.svg)
 
 I’m an interdisciplinary person interested in making technology safe for humanity. I aim to derive technical solutions from a deep understanding of human systems and use those insights to design new technology systems. Right now, many of my interests fall into making sure AI is safe, robust, unbiased, trustworthy, and interpretable.
 
