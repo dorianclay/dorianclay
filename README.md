@@ -1,6 +1,6 @@
 [![glxiia's GitHub stats](https://github-readme-stats.vercel.app/api?username=glxiia&show_icons=true&theme=onedark&count_private=true&custom_title=glxiia)](https://github.com/glxiia)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glxiia&theme=onedark&layout=compact)](https://github.com/glxiia)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glxiia&theme=onedark&layout=compact)](https://github.com/glxiia) -->
 
 <!-- ![Newspeak Helper](https://github.com/glxiia/glxiia/actions/workflows/newspeak.yaml/badge.svg) -->
 
