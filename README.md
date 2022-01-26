@@ -1,6 +1,4 @@
-# glxiia
-
-[![glxiia's GitHub stats](https://github-readme-stats.vercel.app/api?username=glxiia&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![glxiia's GitHub stats](https://github-readme-stats.vercel.app/api?username=glxiia&show_icons=true&theme=onedark&custom_title=glxiia)](https://github.com/glxiia)
 
 <!-- ![Newspeak Helper](https://github.com/glxiia/glxiia/actions/workflows/newspeak.yaml/badge.svg) -->
 
