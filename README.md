@@ -1,4 +1,4 @@
-[![dorianclay's GitHub stats](https://github-readme-stats.vercel.app/api?username=dorianclay&show_icons=true&theme=onedark&count_private=true&custom_title=dorianclay)](https://github.com/dorianclay)
+<!-- [![dorianclay's GitHub stats](https://github-readme-stats.vercel.app/api?username=dorianclay&show_icons=true&theme=onedark&count_private=true&custom_title=dorianclay)](https://github.com/dorianclay) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dorianclay&theme=onedark&layout=compact)](https://github.com/dorianclay) -->
 
